@@ -12,5 +12,6 @@
 
     cd C:\Users\(user name)
     git clone https://github.com/zyguan/vimrc.git vimfiles
-    echo "source $HOME/vimfiles/vimrc.vim" > _vimrc
+    echo 'set backspace=indent,eol,start' > _vimrc
+    echo 'source $HOME/vimfiles/vimrc.vim' >> _vimrc
 
