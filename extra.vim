@@ -11,7 +11,7 @@ augroup END
 " indent fix
 augroup indent_fix
   au!
-  au FileType c,cpp,java set ts=4 sw=4
+  au FileType c,cpp,java,python set ts=4 sw=4
 augroup END
 
 " formatoptions fix
