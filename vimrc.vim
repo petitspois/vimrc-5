@@ -12,7 +12,7 @@ set nowrap              " default nowrap
 set autoindent          " default indent settings
 set pastetoggle=<F2>
 
-
+set ruler               " show cursor position info
 set modeline            " always display status line
 set laststatus=2
 
