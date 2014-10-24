@@ -1,4 +1,4 @@
-# My VIM Configuration
+# A simple and extensible vimrc
 
 ## Installation
 
@@ -15,3 +15,4 @@
     echo set backspace=indent,eol,start > _vimrc
     echo source $HOME/vimfiles/vimrc.vim >> _vimrc
 
+After that, you can install any vim-plugin in the 'bundle' dir.
