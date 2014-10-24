@@ -16,6 +16,7 @@ set pastetoggle=<F2>
 set modeline            " always display status line
 set laststatus=2
 
+set fileencoding=utf-8  " use utf-8 for a new file
 set fileencodings=utf-8,gb2312,gb18030,gbk,ucs-bom,cp936,latin1
 
 let mapleader=","       " set mapleader
